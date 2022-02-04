@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hermes-fire
 - 👀 I’m interested in ... Web developement
-- 🌱 I’m currently learning ... React/Redux/Firebase
+- 🌱 I’m currently learning ... RestAPI/expressJS/mongoDB
 - 💞️ I’m looking to collaborate ... on web dev project
 - 📫 How to reach me ... discord (HERMES-FIRE#3846)
