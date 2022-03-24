@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hermes-fire
 - 👀 I’m interested in ... Web developement
-- 🌱 I’m currently learning ... RestAPI/expressJS/mongoDB
+- 🌱 I’m currently learning ... MERN stack
 - 💞️ I’m looking to collaborate ... on web dev project
 - 📫 How to reach me ... discord (HERMES-FIRE#3846)
 - 🔬 Freecodecamp projects and other pen https://codepen.io/Hermes-fire/
